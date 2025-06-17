@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+    "name"        "Environment Space Projector"
+    "version"     "1.0"
+    "up_date"     "YYYY-MM-DD"  // Date of the addon creation
+    "author_name" "BlazeTheCatMan"
+    "author_email" "zac060798@gmail.com"
+    "info"        ""
+    "override"    "0"
+}
